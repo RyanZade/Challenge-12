@@ -8,7 +8,7 @@ Contents: Inquirer, MySql, Javascript
 
 This file does not contain a link however can be viewed on [GitHub](https://github.com/RyanZade)
 
-Please find attached a snippet screenshot of Challenge 17
+Please find attached a snippet screenshot of Challenge 12
 ![screenshot](./Capture.PNG "Screenshot of Challenge")
 
 My GitHub: [RyanZade](https://github.com/RyanZade)
